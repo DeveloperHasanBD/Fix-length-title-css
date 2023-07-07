@@ -11,3 +11,12 @@
     overflow: hidden;
     text-overflow: ellipsis;
     -webkit-line-clamp: 2;
+
+
+/* final  */
+
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
